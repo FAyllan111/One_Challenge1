@@ -24,7 +24,7 @@ Este é um projeto simples para organizar e realizar sorteios de amigo secreto. 
 ## Como Utilizar
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/FAyllan111/One_Challenge1>
    ```
 
 2. Abra o arquivo `index.html` em um navegador.
